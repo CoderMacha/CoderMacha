@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **machine learning and app development concepts**
+- 🌱 I’m currently learning **machine learning and Core JAVA concepts**
 
 - 📫 How to reach me **mastersachiroy@gmail.com**
 
